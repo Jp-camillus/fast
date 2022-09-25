@@ -6,10 +6,9 @@ class Fast extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("youtube"),
-      ),
-      body: Text('examles'),
-    );
+        appBar: AppBar(
+          title: Text("youtube"),
+        ),
+        body: Container());
   }
 }
