@@ -9,6 +9,7 @@ class Fast extends StatelessWidget {
       appBar: AppBar(
         title: Text("youtube"),
       ),
+      body: Text('examles'),
     );
   }
 }
